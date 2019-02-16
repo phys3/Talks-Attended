@@ -41,5 +41,10 @@ A list of talks i attended and a few notes on them
     Uber doesnt ask if you want to start your journey from your current location it just saaumes it(Tfy asks)
     Uber suggests you locations you went to before around the time
     
-    
+12/2/2019 Python Meetup
+  Git Commit Messages:
+    Write commit messages
+    Explain well what you changed/added
+    It is a message for someone else or you in the future
+    Structure it like an email
     
